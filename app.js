@@ -37,3 +37,5 @@ listItem1.textContent = "First item";
 listItem2.textContent = "Second item";
 listItem3.textContent = "Third item";
 
+//Removing listItem2 from the list
+listItem2.remove();
